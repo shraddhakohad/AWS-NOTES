@@ -1,1 +1,53 @@
+1.	What is cloud computing?
+Cloud computing is the on-demand delivery of IT resources over the Internet with pay-as-you-go pricing. Instead of buying, owning, and maintaining physical data centers and servers, you can access technology services, such as computing power, storage, and databases, on an as-needed basis from a cloud provider like Amazon Web Services (AWS).
+
+2.	What is a Cloud Deployment Model?
+
+Cloud Deployment Model functions as a virtual computing environment with a deployment architecture that varies depending on the amount of data you want to store and who has access to the infrastructure.
+Different types of cloud computing deployment models are described below.
+•	Public Cloud
+•	Private Cloud
+•	Hybrid Cloud
+•	Community Cloud
+•	Multi-Cloud
+
+3.	Cloud Service Models?
+There are the following three types of cloud service models -
+1.	Infrastructure as a Service (IaaS)
+2.	Platform as a Service (PaaS)
+3.	Software as a Service (SaaS)
+Infrastructure as a Service (IaaS)
+IaaS is also known as Hardware as a Service (HaaS). It is a computing infrastructure managed over the internet. The main advantage of using IaaS is that it helps users to avoid the cost and complexity of purchasing and managing the physical servers.
+Platform as a Service (PaaS)
+PaaS cloud computing platform is created for the programmer to develop, test, run, and manage the applications.
+Software as a Service (SaaS)
+SaaS is also known as "on-demand software". It is a software in which the applications are hosted by a cloud service provider. Users can access these applications with the help of internet connection and web browser.
+
+4.	Architecture of Cloud Computing?
+
+ 
+
+
+5.	AWS Global Infrastructure count?
+
+•	32 Launched Regions each with multiple Availability Zones (AZs)
+•	102 Availability Zones
+•	550+ Points of Presence and 13 Regional Edge Caches
+•	32 Launched Regions
+•	each with multiple Availability Zones (AZs
+
+•	What are the three parts of AWS global infrastructure?
+The components are: Availability Zones (AZs) Regions. Edge Locations.
+
+6.	why do we use region in cloud computing
+
+The closer your customers are to the region where your cloud resources are located, the faster and better their experience will be. For example, if your customers are located in Germany, it makes sense to choose a European region for your cloud region, even if your office is in Delaware.
+
+
+7.	What are service in cloud computing?
+
+Cloud services are application and infrastructure resources that exist on the Internet. Third-party providers contract with subscribers for these services, allowing customers to leverage powerful computing resources without having to purchase or maintain hardware and software.
+
+8.	what are resources in cloud computing?
+Cloud computing is the delivery of computing resources — including storage, processing power, databases, networking, analytics, artificial intelligence, and software applications — over the internet (the cloud).
 
