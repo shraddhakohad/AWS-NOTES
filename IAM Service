@@ -1,0 +1,57 @@
+1.	how many resources do we have in IAM ?
+
+
+
+2.	Deployment model in IAM ?
+
+
+
+
+3.	Identities in IAM ?
+
+ 
+
+4.	What is an IAM User ?
+An AWS Identity and Access Management (IAM) user is an entity that you create in AWS. The IAM user represents the human user or workload who uses the IAM user to interact with AWS. A user in AWS consists of a name and credentials.
+
+5.	What is the IAM group ?
+An IAM group is an identity that specifies a collection of IAM users. You can't use a group to sign-in. You can use groups to specify permissions for multiple users at a time. Groups make permissions easier to manage for large sets of users.
+
+6.	What is the IAM policy ?
+IAM policies define permissions for an action regardless of the method that you use to perform the operation.
+
+7.	What is the IAM Role ?
+
+An IAM role is an IAM identity that you can create in your account that has specific permissions.
+
+An IAM role is similar to an IAM user, in that it is an AWS identity with permission policies that determine what the identity can and cannot do in AWS.
+
+8.	Where do we attach identity based policy ?
+1.	Identity-based policies are attached to an IAM user, group, or role. 
+2.	These policies let you specify what that identity can do (its permissions).
+
+9.	Where do we attach resource based policy ?
+Resource-based policies are attached to a resource.
+For example, you can attach resource-based policies to Amazon S3 buckets, Amazon SQS queues, VPC endpoints, and AWS Key Management Service encryption keys. For a list of services that support resource-based policies, see AWS services that work with IAM.
+
+10.	Can we able to create policy via json code ?
+
+Yes, You can type or paste policies in JSON by choosing the JSON option.
+ This method is useful for copying an example policy to use in your account. Or, you can type your own JSON policy document in the JSON editor.
+
+11.	If one user can created by  it by default.  Which permission has been assigned to that user ?
+
+no permissions and is not authorized to perform any AWS actions or to access any AWS resources.
+
+12.	What is dominator policy ?
+
+13.	What is ARN?  What are the fields in ARN ?
+
+An Amazon Resource Name is a file naming convention used to identify a particular resource in the Amazon Web Services (AWS) public cloud. ARNs, which are specific to AWS, help an administrator track and use AWS items and policies across AWS products and API calls.
+
+14.	how many types of ARN partition ?
+
+
+
+
+
